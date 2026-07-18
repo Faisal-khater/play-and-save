@@ -5,3 +5,5 @@ For the User: Overcomes the feeling of financial "deprivation" by replacing it w
  Strategic Alignment: Fully aligns with Saudi Vision 2030 and the Financial Sector Development Program (FSDP) by actively promoting financial literacy, enhancing the savings rate among Saudi households, and fostering a conscious financial community.
 ### Project Link
 [Click here to view the prototype](https://ai.studio/apps/3b555456-c6a5-4bd2-aaf1-4fc38cbbfb8a?fullscreenApplet=true)
+![image](https://github.com/user-attachments/assets/f2a5eeee-84f8-4152-b421-c449f081777b)
+![image](https://github.com/user-attachments/assets/37be2f2d-4fbf-4213-af11-e065e5fe26f2)
